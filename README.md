@@ -1,0 +1,1 @@
+# Webpack 5 basic set up
