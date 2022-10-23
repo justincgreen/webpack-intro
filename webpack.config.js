@@ -42,7 +42,7 @@ module.exports = {
 	// plugins
 	plugins: [
 		new HtmlWebpackPlugin({
-			title: 'Webpack Demo',
+			title: 'Webpack 5 Demo',
 			filename: 'index.html',
 			template: path.resolve(__dirname, 'src/temp.html')
 		})
